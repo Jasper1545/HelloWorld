@@ -15,11 +15,11 @@
 
 ###本人喜爱的游戏包括但不限于：
 
->*   COD、HALO等FPS类游戏；
+>*   [COD](http://baike.baidu.com/subview/97468/4966322.htm#viewPageContent)、[HALO](http://baike.baidu.com/item/halo/35903) 等FPS类游戏；
 
->*   尸体派对、Fear等恐怖游戏；
+>*   尸体派对、Fear 等恐怖游戏；
 
->*  全面战争、钢铁雄心等战略类游戏；
+>*  全面战争、钢铁雄心 等战略类游戏；
 
 >*   沙耶之歌、Dark blue 等文字冒险类游戏；
 
