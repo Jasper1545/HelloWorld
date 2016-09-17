@@ -3,14 +3,11 @@
 
 ###基本信息
 
-姓名  [Jasper](https://github.com/Jasper1545/HelloWorld/blob/master/avator.png)
-
-年龄  保密
-
-性别  男
-
-学历  大学本科（目前）
-
+| 姓名          |  [Jasper](https://github.com/Jasper1545/HelloWorld/blob/master/avator.png)        |
+| ------------- |:-------------:|
+| 性别          | 男          |
+| 年龄          | 未知          |
+| 学历          | 本科          |
 ************************
 
 ###本人喜爱的游戏包括但不限于：
@@ -66,7 +63,7 @@
 >*  编程技能（基本相当于入门水平）；
 
 
-
+![](https://github.com/Jasper1545/HelloWorld/blob/master/avator.png)
 
 
 
