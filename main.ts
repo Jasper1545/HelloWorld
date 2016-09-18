@@ -11,7 +11,7 @@ class Tree {                            //用来打印树的函数
     var star = "*";
     var starfin;
     var linefin;
-
+    console.log("");
     for(var i=1;i<=line;i++) {
 
        spacefin = "";   //初始化空格数
