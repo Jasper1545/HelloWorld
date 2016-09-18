@@ -11,7 +11,7 @@ class Tree {                            //用来打印树的函数
     var star = "*";
     var starfin;
     var linefin;
-    console.log("");
+    
     for(var i=1;i<=line;i++) {
 
        spacefin = "";   //初始化空格数
@@ -177,7 +177,7 @@ declare class NodeProcess extends EventEmitter {
     hrtime(start: number[]): number[];
 }
 
-
+console.log("");
 var line = process.argv[2];       //给line赋值
 var tree = new Tree();            //调用tree里的draw来打印树
 tree.draw(+line);
